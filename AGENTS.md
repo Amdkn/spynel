@@ -142,6 +142,7 @@ Direct child DOX files:
 | Child | Scope |
 | --- | --- |
 | [.github/AGENTS.md](.github/AGENTS.md) | CI and release workflows. |
+| [aspace-spynel-adapter/AGENTS.md](aspace-spynel-adapter/AGENTS.md) | A'Space adapter (fiber:a0:spynel, D-N053 pas B). |
 | [cmd/AGENTS.md](cmd/AGENTS.md) | Executable entry points. |
 | [docs/AGENTS.md](docs/AGENTS.md) | User, protocol, configuration, architecture, and release documentation. |
 | [internal/AGENTS.md](internal/AGENTS.md) | Go runtime packages and embedded workspace templates. |
